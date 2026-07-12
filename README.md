@@ -9,8 +9,8 @@ automation, observability, and quality engineering.
 - **Load Testing:** Gatling
 - **Languages:** Java, Scala, Bash
 - **Build Tools:** Maven
-- Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- DevOps & SRE Tooling:**
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- DevOps & SRE Tooling:
   Git, Maven, Gradle, Docker, Jenkins, Kubernetes,
   AWS, Cloud watch
 
