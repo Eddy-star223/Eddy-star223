@@ -25,3 +25,6 @@ for resilient, production-ready environments.
 ### Recent Work — Enumverse Platform Test Suite
 Built a full API automation suite from the ground up covering:
 
+## 📫 Let's Connect
+https://www.linkedin.com/in/eddy-effanga-64ba66394/
+
