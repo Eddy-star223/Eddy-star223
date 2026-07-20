@@ -6,7 +6,7 @@ observability, and quality engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Testing & Automation**
 Karate DSL · Gatling · JUnit 5 · Mockito · REST API Testing
@@ -25,7 +25,7 @@ Docker · Kubernetes · Jenkins · Maven · Gradle · Git · AWS · CloudWatch
 
 ---
 
-## 🔍 What I Do
+## What I Do
 
 Site Reliability Engineer with hands-on experience designing and 
 implementing API test automation frameworks, load testing pipelines, 
@@ -38,17 +38,17 @@ with Docker, CI/CD pipeline management, and observability practices.
 
 ---
 
-## 🚀 Featured Work — Enumverse Platform Test Suite
+## Featured Work — Enumverse Platform Test Suite
 
 Built a full API automation suite from the ground up covering:
 
-- ✅ **Authentication flows** — signup, email verification via OTP,
+- **Authentication flows** — signup, email verification via OTP,
   login with password, login with OTP, change password, forgot password
-- ✅ **Assessment management** — sectioned and non-sectioned assessment
+- **Assessment management** — sectioned and non-sectioned assessment
   creation, question and skill management, talent submission flows
-- ✅ **Course management** — course creation, module/lesson hierarchy,
+- **Course management** — course creation, module/lesson hierarchy,
   content blocks, course settings and publishing
-- ✅ **Load testing** — concurrent signup and login simulations using
+- **Load testing** — concurrent signup and login simulations using
   Gatling with real OTP polling via Mailpit under load, simulating
   up to 100 concurrent virtual users with p95 response time assertions
 
