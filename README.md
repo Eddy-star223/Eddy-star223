@@ -1,66 +1,84 @@
-# Hi, I'm Eddy Effanga 👋
+# Hi, I'm Eddy Ewahenshaw Effanga 👋
 
-**Site Reliability Engineer** based in Lagos, Nigeria  
-Passionate about building reliable systems through automation, 
-observability, and quality engineering.
+**Site Reliability Engineer | Backend Engineer | QA Automation Engineer**  
+📍 Lagos, Nigeria
 
----
+I build and test backend systems, automate engineering workflows, and improve application reliability through performance evaluation, observability, and continuous delivery. My experience spans backend development with Java and Python, API and UI test automation, load testing, and cloud and DevOps practices.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Testing & Automation**
-Karate DSL · Gatling · JUnit 5 · Mockito · REST API Testing
+**Languages**  
+Java · Python · JavaScript · Go
 
-**Languages**
-Java · Python · JavaScript · Golang
+**Backend Development**  
+Spring Boot · Django · REST APIs · Authentication · Request Validation
 
-**Frameworks**
-Spring Boot · Django
+**QA & Test Automation**  
+Karate DSL · JUnit 5 · Mockito · Gatling · k6 · API Testing · UI Testing · Regression Testing · Performance Testing
 
-**Databases**
+**DevOps & Site Reliability Engineering**  
+AWS · CloudWatch · Docker · Kubernetes · Jenkins · CI/CD · Shell Scripting · Git · Maven · Gradle
+
+**Databases**  
 PostgreSQL · MySQL · MongoDB · Redis
 
-**DevOps & SRE**
-Docker · Kubernetes · Jenkins · Maven · Gradle · Git · AWS · CloudWatch
+**Reliability & Observability**  
+Monitoring · Logging · Alerting · Incident Investigation · Root-Cause Analysis · SLIs/SLOs · Performance Analysis
 
----
+## 👨‍💻 What I Do
 
-## What I Do
+### ⚙️ Site Reliability Engineering
+- Automate repetitive engineering tasks and improve operational efficiency.
+- Evaluate service performance under concurrent workloads.
+- Apply monitoring, observability, and troubleshooting practices to understand system behaviour.
+- Support reliable deployments through containerization and CI/CD workflows.
+- Focus on reducing operational toil and limiting the impact of service failures.
 
-Site Reliability Engineer with hands-on experience designing and 
-implementing API test automation frameworks, load testing pipelines, 
-and reliability tooling for production-grade platforms.
+### 🚀 Backend Engineering
+- Develop RESTful backend services using Java, Spring Boot, and Python, Django.
+- Implement authentication, request validation, CRUD operations, and application business logic.
+- Work with relational and NoSQL databases.
+- Build maintainable services with attention to error handling, performance, and reliability.
 
-Proficient in building scalable test infrastructure using Karate DSL 
-and Gatling, with a strong foundation in backend engineering using 
-Java (Spring Boot) and Python (Django). Experienced in containerization 
-with Docker, CI/CD pipeline management, and observability practices.
+### 🧪 QA Automation Engineering
+- Design reusable API automation frameworks using Karate DSL and JUnit 5.
+- Automate UI and end-to-end workflows.
+- Build load-testing scenarios using Gatling and k6.
+- Validate API contracts, authentication flows, edge cases, and system behaviour under load.
+- Investigate defects and improve regression coverage and release confidence.
 
----
+## 🚀 Featured Project: Enumverse API Automation & Load Testing
 
-## Featured Work — Enumverse Platform Test Suite
+Designed and implemented an API automation suite covering authentication, assessment management, and course-management workflows.
 
-Built a full API automation suite from the ground up covering:
+**Key areas covered**
+- **Authentication:** Signup, OTP email verification, login, password changes, and password recovery.
+- **Assessment management:** Assessment creation, question and skill management, and talent submission.
+- **Course management:** Course creation, module and lesson hierarchies, content blocks, settings, and publishing.
+- **Performance testing:** Gatling simulations for signup and login, including asynchronous OTP polling through Mailpit.
 
-- **Authentication flows** — signup, email verification via OTP,
-  login with password, login with OTP, change password, forgot password
-- **Assessment management** — sectioned and non-sectioned assessment
-  creation, question and skill management, talent submission flows
-- **Course management** — course creation, module/lesson hierarchy,
-  content blocks, course settings and publishing
-- **Load testing** — concurrent signup and login simulations using
-  Gatling with real OTP polling via Mailpit under load, simulating
-  up to 100 concurrent virtual users with p95 response time assertions
+**Engineering highlights**
+- Reusable Karate features and shared test helpers.
+- CSV-based credential sharing between load-test simulations.
+- Dynamic request construction for complex JSON payloads.
+- Configurable retry and polling logic for OTP verification.
+- Shell-based orchestration of functional and load-test suites.
+- Performance assertions for response times and failure rates.
 
-**Key engineering highlights:**
-- Reusable called features pattern in Karate for DRY test design
-- CSV-based credential sharing between Gatling simulations
-- Dynamic object key handling for complex JSON payloads
-- Retry polling loops for async OTP verification under load
-- Shell-based test runner orchestrating load and functional suites
+## 🎯 Current Interests
 
----
+- Site Reliability Engineering and production readiness
+- Backend architecture and scalable REST APIs
+- Test automation and performance engineering
+- Cloud infrastructure and CI/CD automation
+- Observability, incident investigation, and system resilience
 
 ## 📫 Let's Connect
-https://www.linkedin.com/in/eddy-effanga-64ba66394/
 
+- **LinkedIn:** [Eddy Effanga](https://www.linkedin.com/in/eddy-effanga-64ba66394/)
+- **GitHub:** [Eddy-star223](https://github.com/Eddy-star223)
+- **Email:** eddyeffanga@gmail.com
+
+---
+
+*Building reliable systems, writing maintainable code, and automating quality into every stage of software delivery.*
